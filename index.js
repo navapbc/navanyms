@@ -42,7 +42,8 @@ var navas = [
   'Navasauri',
   'Navascholars',
   'Navatars',
-  'Navatinis'
+  'Navatinis',
+  'Navaqueros'
 ];
 
 /**
